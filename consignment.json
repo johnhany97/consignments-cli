@@ -1,0 +1,12 @@
+{
+  "description": "I am a test",
+  "weight": 3002,
+  "containers": [
+    {
+      "customer_id": "cust001",
+      "user_id": "user001",
+      "origin": "Manchester, UK"
+    }
+  ],
+  "vessel_id": "vessel001"
+}
